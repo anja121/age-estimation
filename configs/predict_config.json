@@ -1,0 +1,8 @@
+{
+  "n_classes": 50,
+  "start_label": 16,
+  "end_label": 65,
+  "img_size": 197,
+  "threshold": 0.4,
+  "model_path": "/path/to/trained/model.h5"
+}

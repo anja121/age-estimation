@@ -1,0 +1,13 @@
+{
+  "img_dir": "/path/to/images/dir/dataset/",
+  "csv_path": "/path/to/annotation/file.csv",
+  "task_weighting": true,
+  "checkpoint": false,
+  "img_size": 197,
+  "logs": false,
+  "batch_size" : 16,
+  "num_epochs" : 30,
+  "model_prefix": "age_estimator_",
+  "arch_type": "resnet",
+  "arch_subtype": 50
+}
