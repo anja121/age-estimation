@@ -56,7 +56,7 @@ Config files are in  folder /configs
 
 With tensorflow docker:
 
-prerequisite: tensorflow-gpu docker image [https://www.tensorflow.org/install/docker]()
+prerequisite: tensorflow-gpu docker image [https://www.tensorflow.org/install/docker](https://www.tensorflow.org/install/docker)
 
 ```console
 docker build -t age-estimation .
